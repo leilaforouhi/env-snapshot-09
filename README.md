@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Environment Snapshot
-- Collects basic OS and Python environment details
+- Collects basic OS and Python environment detail
 - Saves them into snapshot.json
 """
 
